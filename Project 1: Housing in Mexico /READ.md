@@ -1,3 +1,6 @@
+
+<img width="370" height="142" alt="image" src="https://github.com/user-attachments/assets/2658da46-c595-4c66-90b0-13fe006fe057" />
+
 🏠 Housing in Mexico Price Analysis
 
 Project Overview:
