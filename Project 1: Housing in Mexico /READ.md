@@ -51,3 +51,15 @@ Lesson 3 — Exploratory Data Analysis (EDA)
     Visualizing distributions and relationships
     Identifying patterns and outliers
     Comparing price behavior across locations
+
+Lesson 5 - Size or Location: What Influences Prices?
+  Focus:
+    Correlation analysis between variables
+    Comparing impact of size vs location
+    Drawing data-driven conclusions
+
+Assignment
+
+
+This repository contains documentation only.
+All analysis was completed in a controlled learning environment and is summarized here for portfolio and knowledge demonstration purposes.
