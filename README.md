@@ -8,6 +8,13 @@ This DS Lab focuses on:
   Developing intuition for statistical analysis, time series, and ML concepts
   Translating theory into working notebooks, scripts, and mini-projects
 
+Tools & Technologies
+  Python
+  Pandas, NumPy
+  Matplotlib / Seaborn
+  Scikit-learn
+  Jupyter Notebook
+
 Repository Structure:
 
 ds-lab/
@@ -25,6 +32,7 @@ ds-lab/
 
 Each folder represents an overview of the standalone projects and what I was able to achieve by completind the assignments.
 
+  
 NOTES:
 This repository is for educational and portfolio purposes
 Projects are developed incrementally as part of structured learning
