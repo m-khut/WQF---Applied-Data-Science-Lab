@@ -26,6 +26,7 @@ Lesson 1 — Predicting Price with Property Size
  - Focus:
    - Understanding the relationship between **property size** and **price**
    - Establishing a baseline feature for prediction
+   - Work with feature (X) and train (y)
    - Building intuition for modeling using a single strong variable
 
 Lesson 2 — Predicting Price with Property Location
