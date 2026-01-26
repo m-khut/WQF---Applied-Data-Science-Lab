@@ -36,16 +36,22 @@ Skills & Concepts Covered
       - Evaluate
  - Communicate Results
 
-Lesson 1 — Predicting Price with Property Size
+Lesson 1: Predicting Price with Property Size
  - Focus:
    - Understanding the relationship between **property size** and **price**
    - Establishing a baseline feature for prediction
    - Work with feature (X) and train (y)
    - Building intuition for modeling using a single strong variable
 
-Lesson 2 — Predicting Price with Property Location
+Lesson 2: Predicting Price with Property Location
  - Focus:
    - Representing property location in a usable analytical format
       - 3-D data plotting
    - Comparing prices across different neighborhoods or regions  
-   - Evaluating how location improves price prediction accuracy 
+   - Evaluating how location improves price prediction accuracy
+  
+Lesson 3: Predicting Price with Property Neighborhood
+ - Focus:
+   - Handling categorical neighborhood features  
+   - Encoding neighborhood information for modeling  
+   - Measuring how neighborhood-level detail improves predictions  
