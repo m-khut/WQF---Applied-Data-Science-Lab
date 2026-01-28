@@ -18,9 +18,9 @@ Skills & Concepts Covered
  - Libraries
       - Numpy
       - Pandas
-      - SciKit Learn
+      - SciKit-Learn
       - Plotly
-      - 
+      - Matplotlib
  - Exploratory Data Analysis (EDA)
  - Feature/target relationships
  - Predictive modeling fundamentals
